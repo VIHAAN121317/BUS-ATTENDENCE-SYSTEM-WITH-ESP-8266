@@ -1,5 +1,14 @@
 # Smart Bus Conductor Attendance and Automated Gate Management System
 
+TO GET THE ID OF THE RFID CARD USE THE GET.ino FILE IN CODE FOLDER 
+
+
+
+
+
+
+
+
 The Smart Bus Conductor Attendance and Automated Gate Management System is an IoT-based solution designed to modernize attendance tracking and entry management in bus depots and transport facilities. The system combines RFID technology, wireless networking, automated gate control, and digital record management to create a reliable, efficient, and user-friendly attendance platform.
 
 Traditional attendance systems often rely on manual registers, signatures, or verbal reporting, which can lead to inaccuracies, delays, manipulation of records, and additional administrative workload. This project eliminates these challenges by automatically identifying conductors through RFID cards, recording attendance in real time, calculating late-reporting penalties, and providing supervisors with a convenient web-based dashboard.
