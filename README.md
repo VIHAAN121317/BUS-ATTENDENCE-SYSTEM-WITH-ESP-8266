@@ -1,6 +1,7 @@
 # Smart Bus Conductor Attendance and Automated Gate Management System
 
 TO GET THE ID OF THE RFID CARD USE THE GET.ino FILE IN CODE FOLDER 
+IN 43 AROUND THIS LINE CHANGE WITH YOUR ID OF CARD IN CONDUCTORS
 
 
 
